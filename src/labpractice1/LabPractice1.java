@@ -137,6 +137,7 @@ public class LabPractice1 {
                             System.out.println("Volviendo al menu principal");
                             break;
                         default:
+                            System.out.println("Ingrese una opcion valida!");
                             break;
                         }
                     } while (opcion2 != 4);
